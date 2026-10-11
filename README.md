@@ -8,7 +8,7 @@ This repository holds release files only. Each release lists the SHA-256 fingerp
 
 The app is in private alpha and not yet code-signed:
 
-- **macOS:** the first time, right-click Stacklumen in Applications and choose **Open**.
+- **macOS:** the first time, macOS says it can’t verify Stacklumen — choose **Done**, then open **System Settings → Privacy & Security**, click **Open Anyway** beside Stacklumen, confirm, and choose **Open**.
 - **Windows:** if SmartScreen says “Windows protected your PC”, choose **More info → Run anyway**.
 
 Questions: support@stacklumen.com
